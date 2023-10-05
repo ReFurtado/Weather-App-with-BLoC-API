@@ -1,16 +1,7 @@
-# clima_app
+# Weather-App-with-BLoC-API
 
-A new Flutter project.
+Projeto de um aplicativo meteorológico utilizando o pacote BLoC e solicitando os dados através da API OpenWeather.
 
-## Getting Started
+## Imagem
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Imagem do projeto](app_clima.png)
